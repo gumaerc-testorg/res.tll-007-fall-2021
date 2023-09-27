@@ -32,6 +32,7 @@
     "website": "res-tll-007-case-studies-in-social-and-ethical-responsibilities-of-computing-fall-2021"
   },
   "course_title": "Case Studies in Social and Ethical Responsibilities of Computing",
+  "hide_download": true,
   "course_description": "The MIT Case Studies in Social and Ethical Responsibilities of Computing ([SERC](https://computing.mit.edu/cross-cutting/social-and-ethical-responsibilities-of-computing/)) aims to advance new efforts within and beyond [MIT\u2019s Stephen A. Schwarzman College of Computing](https://computing.mit.edu/). The specially commissioned and peer-reviewed cases are brief and intended to be effective for undergraduate instruction across a range of classes and fields of study. The series editors expect the cases will also be of interest for computing professionals, policy specialists, and general readers. All cases will be made freely available via open-access publishing, with author retained copyright, through Creative Commons licensing.\n\nThe Series Editors interpret \u201csocial and ethical responsibilities of computing\u201d broadly. Some cases focus closely on particular technologies, others on trends across technological platforms. Still others examine social, historical, philosophical, legal, and cultural facets that are essential for thinking critically about present-day efforts in computing and data sciences.\n",
   "department_numbers": [
     "RES"
@@ -43,6 +44,7 @@
     "website": "res-tll-007-case-studies-in-social-and-ethical-responsibilities-of-computing-fall-2021"
   },
   "learning_resource_types": [],
-  "site_uid": "a119a0b7-abcd-43da-8484-78267648234b",
+  "site_uid": "a9c3a801-c71d-4383-8d46-d199579d2c30",
+  "site_short_id": "res.tll-007-fall-2021",
   "title": "Course Metadata"
 }
