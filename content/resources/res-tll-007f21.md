@@ -6,8 +6,8 @@ file_size: 49058
 file_type: image/jpeg
 image_metadata:
   caption: 'Many types of data, including maps, are used in SERC''s case studies which
-    span departments and topics. (Courtesy of [NASA](https://www.nasa.gov/image-feature/nyc-last-night).
-    License: Public Domain.)'
+    span departments and topics. (Courtesy of {{% resource_link "e8ee4790-621f-4929-a578-823508b43cff"
+    "NASA" %}}. License: Public Domain.)'
   credit: ''
   image-alt: Image of New York City at night from the International Space Station.
 learning_resource_types: []
